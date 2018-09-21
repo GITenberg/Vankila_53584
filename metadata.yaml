@@ -1,0 +1,37 @@
+_repo: Vankila_53584
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lattu, Iisakki
+    birthdate: 1857
+    deathdate: 1932
+    gutenberg_agent_id: '47494'
+    url: http://www.gutenberg.org/2009/agents/47494
+creator:
+  author:
+    agent_name: Gorky, Maksim
+    aliases:
+    - Gorky, Maxime
+    - Gorky, Maxim
+    - Peshkov, Alexey Maximiovich
+    - Горький, Максим
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '348'
+    url: http://www.gutenberg.org/2009/agents/348
+    wikipedia: http://en.wikipedia.org/wiki/Maxim_Gorky
+description: ''
+gutenberg_issued: '2016-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53584'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- GITenberg
+title: Vankila
+url: http://www.gutenberg.org/ebooks/53584
